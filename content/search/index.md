@@ -1,9 +1,9 @@
 ---
 title: Search
 hidden: true
-versions:
+version':
   fpt: '*'
-  ghec: '*'
-  ghes: '*'
+  
+  ghes: 
 ---
 
